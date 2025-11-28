@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   // TU LINK DE AFILIADO (Aquí pondremos el real de ClickBank luego)
-  const affiliateLink = "https://hop.clickbank.net/?affiliate=tucodigo&vendor=exipure";
+  const affiliateLink = "https://www.digistore24.com/redir/283755/antigravity96";
 
   return (
     <main className="min-h-screen bg-gray-50 font-sans text-gray-800">
